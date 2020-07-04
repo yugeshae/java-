@@ -1,4 +1,4 @@
-package fundamnetalsJava;
+package wipro;
 
 public class package fundamnetalsJava;
 
