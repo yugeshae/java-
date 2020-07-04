@@ -1,4 +1,4 @@
-package fundamnetalsJava;
+package wipro;
 
 import java.util.Scanner;
 
